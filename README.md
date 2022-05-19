@@ -1,6 +1,6 @@
 # Instance-Segmentation-with-Discriminative-Loss 
 
-This code is pytorch implementation of 'Semantic Instance Segmentation with a Discriminative Loss Function' (https://arxiv.org/abs/1708.02551)
+This code is pytorch implementation of 'Semantic Instance Segmentation with a Discriminative Loss Function' (https://arxiv.org/abs/1708.02551) with CVPPP-2017 Dataset (https://www.plant-phenotyping.org/CVPPP2017)
 
 I slightly updated and revised the code of https://github.com/Wizaron/instance-segmentation-pytorch which does not match with python3. The updated content is as follows.
 
