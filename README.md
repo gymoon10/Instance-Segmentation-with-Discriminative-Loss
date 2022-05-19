@@ -50,6 +50,18 @@ input / pred / GT
 
 ![image](https://user-images.githubusercontent.com/44194558/169200753-7c6901fb-7a3e-44da-8f45-b20a5681e9f4.png)
 
+<br/>
+
+# References
+
+ReNet (used in ReSeg): https://arxiv.org/abs/1505.00393
+
+ReSeg: https://arxiv.org/abs/1511.07053
+
+SegNet: https://arxiv.org/pdf/1511.00561.pdf
+
+CBAM (Convolutional Block Attention Module): https://arxiv.org/abs/1807.06521
+
 
 
 
