@@ -24,6 +24,21 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
 <br/>
 
+## UNet-CBAM
+
+### CBAM (Convolutional Block Attention Module)
+
+![image](https://user-images.githubusercontent.com/44194558/169212182-d4867663-f011-4722-8e60-1f0cd9c04ef0.png)
+
+### Architecture
+
+![image](https://user-images.githubusercontent.com/44194558/169212305-980b2299-53c3-48a8-a017-77fbb6a16a6c.png)
+
+ - Instance Counter : predicts normalized # of leaf instances
+ - Semantic Head : predicts semantic mask (f.g / b.g)
+ - Instance Head : predicts 32 dims embedding space
+
+<br/>
 
 ## Results
 
