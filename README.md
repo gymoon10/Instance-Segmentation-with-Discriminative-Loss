@@ -32,7 +32,7 @@ You should execute `python -m visdom.server` before training
 |ReSeg | 0.1425 | 0.8599 | 0.9669 | 0.7143 | 
 |SegNet | 0.1295 | 0.8645 | 0.9695 | 0.6071 | 
 |UNet | 0.1137 | 0.8656 | 0.9703 | 0.5713 | 
-|UNet-CBAM | 0.8813 | 0.8599 | 0.9708 | 0.7143 | 
+|UNet-CBAM | 0.1031 | 0.8599 | 0.9708 | 0.7143 | 
 
 <br/>
 
