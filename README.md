@@ -16,6 +16,8 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
 You should execute `python -m visdom.server` before training
 
+`train3.py` -> `pred_list2.py` -> `evaluation.py`
+
 <br/>
 
 
