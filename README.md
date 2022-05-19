@@ -8,7 +8,7 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
   - added other networks (UNet, UNet with CBAM, DeepLabV3)
      
-     - but confirmed that semantic & instance segmentation result of DeepLabV3 are very bad
+     - unfortunately semantic & instance segmentation result of DeepLabV3 are very bad
 
 <br/>
 
