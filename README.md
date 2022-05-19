@@ -36,7 +36,7 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
  - Instance Counter : predicts normalized # of leaf instances
  - Semantic Head : predicts semantic mask (f.g / b.g)
- - Instance Head : predicts 32 dims embedding space
+ - Instance Head : predicts 32 dims embedding space which has to be clustered by K-Means
 
 <br/>
 
