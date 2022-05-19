@@ -13,7 +13,7 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
   - ReSeg with CoordConv(with r) is possible
 
 
-**My paper 'Leaf Instance Segmentation with Attention Based U-Net & Discriminative Loss' which utilizes this code was submitted to 'Summer Annual conference of IEIE, 2022 (https://conf.theieie.org/2022s/)'**
+**My paper 'Leaf Instance Segmentation with Attention Based U-Net & Discriminative Loss' which utilizes this code was submitted for participation at 'Summer Annual conference of IEIE, 2022 (https://conf.theieie.org/2022s/)'**
 
 <br/>
 
