@@ -1,4 +1,4 @@
-# Instance-Segmentation-with-Discriminative-Loss
+# Instance-Segmentation-with-Discriminative-Loss 
 
 This code is pytorch implementation of 'Semantic Instance Segmentation with a Discriminative Loss Function' (https://arxiv.org/abs/1708.02551)
 
