@@ -16,11 +16,11 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
 ## Notification
 
-You should execute `python -m visdom.server` before training
+- You should execute `python -m visdom.server` before training
 
-`train3.py` -> `pred_list2.py` -> `evaluation.py`
+- `train3.py` -> `pred_list2.py` -> `evaluation.py`
 
-I couldn't solve the error of training Stacked Recurrent Hourglass. The training does not proceed from 2 epochs due to errors in the back-propagation process.
+- I couldn't solve the error of training Stacked Recurrent Hourglass. The training does not proceed from 2 epochs due to errors in the back-propagation process.
 
 <br/>
 
