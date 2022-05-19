@@ -7,8 +7,17 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
   - revised the Dataset which does not use lmdb
 
   - added other networks (UNet, UNet with CBAM, DeepLabV3)
+     
+     - but confirmed that semantic & instance segmentation result of DeepLabV3 are very bad
 
 <br/>
+
+## Notification
+
+You should execute `python -m visdom.server` before training
+
+<br/>
+
 
 ## Results
 
