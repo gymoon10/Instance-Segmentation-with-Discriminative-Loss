@@ -54,13 +54,13 @@ input / pred / GT
 
 # References
 
-ReNet (used in ReSeg): https://arxiv.org/abs/1505.00393
+ReNet (used in ReSeg) : https://arxiv.org/abs/1505.00393
 
-ReSeg: https://arxiv.org/abs/1511.07053
+ReSeg : https://arxiv.org/abs/1511.07053
 
-SegNet: https://arxiv.org/pdf/1511.00561.pdf
+SegNet : https://arxiv.org/pdf/1511.00561.pdf
 
-CBAM (Convolutional Block Attention Module): https://arxiv.org/abs/1807.06521
+CBAM (Convolutional Block Attention Module) : https://arxiv.org/abs/1807.06521
 
 
 
