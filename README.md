@@ -21,7 +21,7 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
 - You should execute `python -m visdom.server` before training
 
-- `train3.py` -> `pred_list2.py` -> `evaluation.py`
+- `train3.py` -> `pred_list2.py` -> `evaluation.ipynb`
 
 - I couldn't solve the error of training Stacked Recurrent Hourglass. The training does not proceed from 2 epochs due to errors in the back-propagation process.
 
