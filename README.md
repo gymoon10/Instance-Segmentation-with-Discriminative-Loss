@@ -27,6 +27,10 @@ I slightly updated and revised the code of https://github.com/Wizaron/instance-s
 
 - I couldn't solve the error of training Stacked Recurrent Hourglass. The training does not proceed from 2 epochs due to errors in the back-propagation process.
 
+- **Updated(23/06/19)**
+  - If you use the latest version of pytorch (torch==2.1.1+cu121), please use train3_update.py & model_update.py instead of train3.py & model.py
+    - .next() method was deprecated (line 257 of model.py)
+
 <br/>
 
 ## UNet-CBAM
